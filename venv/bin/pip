@@ -1,4 +1,4 @@
-#!/home/pc/Personal/e-learning/Udacity_Neighborly_APP/NeighborlyFrontEnd/venv/bin/python
+#!/home/pc/Personal/e-learning/Udacity_Neighborly_APP/NeighborlyFrontEnd/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
